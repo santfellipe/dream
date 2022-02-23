@@ -3594,6 +3594,7 @@ input, select, textarea {
 			}
 
 		#wrapper > .copyright {
+			display: none;
 			position: absolute;
 			bottom: -3rem;
 			right: 0;
